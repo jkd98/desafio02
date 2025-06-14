@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h2>Primer push - action</h2>
+        <h2>Segundo push - action2</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
